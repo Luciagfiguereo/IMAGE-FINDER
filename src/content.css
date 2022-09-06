@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    background-color: rgb(250, 239, 219);
+    justify-content: center;
+}
+
+.center{
+    column-count: 3;
+    width: 1200px;
+}
